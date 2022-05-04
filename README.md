@@ -1,24 +1,11 @@
-# README
+# Foodlog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created with the intention of dipping my toes into the Ruby on Rails (as well as Bulma) world, created with the help of [Traversy Media](https://www.youtube.com/watch?v=B3Fbujmgo6).
 
-Things you may want to cover:
+Might add more features on top of the demo application in the future.
 
-* Ruby version
+## Demo
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p align="center">
+  <img alt="header image" src="" height="250" />
+</p>
